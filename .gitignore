@@ -1,0 +1,13 @@
+venv
+media
+baira-data/
+migrations
+*.pyc
+__pycache__/
+
+.git
+.vscode
+staticfiles/
+static/
+data/
+.env
